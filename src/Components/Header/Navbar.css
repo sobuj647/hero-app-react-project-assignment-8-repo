@@ -1,0 +1,7 @@
+.linear-gradient{
+    background:linear-gradient(125.07deg, rgba(99, 46, 227, 1),rgba(159, 98, 242, 1) 100%);
+    color: wheat;
+    font-weight: 600;
+    line-height: 100%;
+    text-transform: capitalize;
+}
