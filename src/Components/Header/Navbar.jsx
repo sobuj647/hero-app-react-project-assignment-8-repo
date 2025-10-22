@@ -14,12 +14,12 @@ const Navbar=()=>{
                 <h1>HERO.IO</h1>
             </div>
             <div>
-                <NavLink className="active" to='/'>Home</NavLink>
-                <NavLink className="active ml-8">Apps</NavLink>
-                <NavLink className="active ml-8">Installation</NavLink>
+                <NavLink to='/'>Home</NavLink>
+                <NavLink className="ml-8" to='/apps'>Apps</NavLink>
+                <NavLink className="ml-8" to='/installation'>Installation</NavLink>
             </div>
             <div>
-                <NavLink>
+                <NavLink to='https://github.com/sobuj647/hero-app-react-project-assignment-8-repo'>
                     <button className="btn linear-gradient">
                         <FaGithub/>
                         Contribute
