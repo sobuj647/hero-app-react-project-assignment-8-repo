@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://i.ibb.co.com/YBtJ7N0Z/1.webp",
+    "title": "Social Connect",
+    "companyName": "Global Apps Inc.",
+    "id": 101,
+    "description": "Stay connected with friends and family worldwide. Share photos, updates, and more. **Social Connect is the premier platform for personal networking, offering secure, end-to-end encrypted messaging and a customizable news feed.** Key features include **live video broadcasting for up to 50 participants**, a 'Moments' story feature that archives after 24 hours, and an integrated **peer-to-peer payment system** for easy transactions among contacts. Our **AI-powered content filter** minimizes spam and irrelevant posts, focusing on meaningful connections. The app also features a **'Local Meetup' planner** that suggests nearby events and gatherings based on your interests and network activities. **Version 4.5.1 introduced a new 'Zen Mode' for controlling notification frequency and screen time, promoting digital well-being.**",
+    "size": 125.5,
+    "reviews": 152345,
+    "ratingAvg": 4.2,
+    "downloads": 550,
+    "ratings": [
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 25345 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "5 star", "count": 55000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zp8WFGSd/2.png",
+    "title": "Pro Photo Editor",
+    "companyName": "Creative Suite Labs",
+    "id": 102,
+    "description": "Professional-grade photo editing tools for mobile. Filters, layers, and advanced adjustments. **Unlock your creative potential with the most comprehensive suite of mobile editing tools, rivaling desktop software.** The app supports **non-destructive RAW image editing**, offering precision color grading, advanced masking tools, and over 100 unique artistic filters. Features include **unlimited layer support with blend modes**, a **heal and clone brush for retouching**, and **3D LUT import/export** for cinematic color profiles. **Recent update 2.1 introduces AI-powered object selection and background replacement, significantly streamlining complex edits.** Export options include high-resolution formats like TIFF and PNG, maintaining image integrity.",
+    "size": 78.2,
+    "reviews": 98765,
+    "ratingAvg": 4.6,
+    "downloads": 125,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2265 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 53000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/SwSdnGDb/3.jpg",
+    "title": "Quick Task Manager",
+    "companyName": "Efficiency Solutions",
+    "id": 103,
+    "description": "The simplest way to manage your daily to-do lists and projects. Stay organized and productive. **A minimalist yet powerful task management solution designed for speed and clarity.** Users can create tasks using **natural language input** (e.g., 'Meeting tomorrow at 9 AM'), which automatically sets the due date and time. Features include **Kanban board views for project tracking**, integration with popular calendar apps, and **location-based reminders** that trigger when you arrive or leave a specific place. The **Focus Timer** built into the app helps you apply the Pomodoro technique to your tasks. **Version 3.0 added collaborative list sharing with real-time syncing for team projects and family chores.**",
+    "size": 15.1,
+    "reviews": 54321,
+    "ratingAvg": 4.8,
+    "downloads": 890,
+    "ratings": [
+      { "name": "1 star", "count": 321 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 22000 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTkP2qbG/4.jpg",
+    "title": "Galaxy Racer 3D",
+    "companyName": "Pixel Play Games",
+    "id": 104,
+    "description": "High-speed intergalactic racing game with stunning graphics and challenging tracks. **Experience the adrenaline of zero-gravity racing across eight unique planetary environments.** Choose from **20 customizable futuristic hovercrafts** with upgradeable engines, shields, and weapons. The game offers three modes: **Career Mode with a complex storyline**, **Arcade Mode for quick races**, and **Multiplayer PvP** with global leaderboards. **Dynamic weather systems and track hazards** require strategic use of boosters and brakes. **The latest expansion, 'Nebula Drift,' introduced anti-gravity motorcycle races and a new co-op challenge mode.**",
+    "size": 450.9,
+    "reviews": 230000,
+    "ratingAvg": 3.9,
+    "downloads": 300,
+    "ratings": [
+      { "name": "1 star", "count": 35000 },
+      { "name": "2 star", "count": 45000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DgYd4dR7/5.webp",
+    "title": "Active Life Tracker",
+    "companyName": "HealthTech Systems",
+    "id": 105,
+    "description": "Monitor your steps, sleep, and workouts. Set goals and track your fitness progress. **Your all-in-one health and wellness companion. Seamlessly syncs with all major wearable devices and smart scales.** Track **20+ different workout types** with real-time metrics, including heart rate zone analysis and GPS mapping for runs. The **Sleep Coach** analyzes sleep cycles (REM, deep, light) and provides personalized recommendations for better rest. Features **daily 'Activity Score' based on effort, recovery, and consistency**, motivating streaks, and a **nutritional log with barcode scanning** for easy calorie tracking. **New in Pro version 5.0 is an integrated virtual personal trainer with video demonstrations.**",
+    "size": 55.7,
+    "reviews": 190000,
+    "ratingAvg": 4.4,
+    "downloads": 220,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 55000 },
+      { "name": "5 star", "count": 105000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dsx5CCKD/6.webp",
+    "title": "Weather Now Live",
+    "companyName": "Atmosphere Data Co.",
+    "id": 106,
+    "description": "Accurate, real-time weather forecasts and detailed hourly predictions for your location. **Provides hyper-local, minute-by-minute precipitation forecasts and advanced radar mapping.** Data is sourced from a global network of over 100,000 weather stations and satellite imagery. Features include **15-day extended forecasts**, air quality index (AQI) reports, and **severe weather alerts** customizable by intensity. The **'Travel Planner' function** allows you to check weather conditions for multiple cities simultaneously. **Unique to this app is the 'Atmospheric Pressure' graph, beneficial for users with weather-sensitive conditions.**",
+    "size": 32.4,
+    "reviews": 78000,
+    "ratingAvg": 4.1,
+    "downloads": 150,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 26000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/hRJtqJsw/7.webp",
+    "title": "Lingua Master",
+    "companyName": "EduGlobal Soft",
+    "id": 107,
+    "description": "Learn a new language with fun, interactive lessons and native speaker audio. **Master fluency in 30+ languages using our proprietary spaced repetition system (SRS) for optimal memory retention.** Lessons are broken down into **short, gamified sessions** focusing on conversation, grammar, and vocabulary. Features **AI-powered pronunciation feedback** using voice analysis, cultural context notes, and a **live tutor marketplace** for one-on-one practice. **The 'Immersion Mode' allows you to translate real-world objects using your phone's camera to instantly learn new words.** Progress tracking visualizes your mastery level across different skill sets.",
+    "size": 95.8,
+    "reviews": 110000,
+    "ratingAvg": 4.7,
+    "downloads": 180,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/yc3xGJhW/8.webp",
+    "title": "Budget Pal",
+    "companyName": "Finance Focus Ltd.",
+    "id": 108,
+    "description": "Track your expenses, set budgets, and achieve financial goals with ease. **A smart personal finance manager that connects securely to all your bank accounts for automatic transaction categorization.** Features **'Zero-Based Budgeting' templates**, real-time alerts for overspending, and **debt payoff projection tools** to visualize your freedom date. Create **custom savings goals** (e.g., house down payment, vacation) and track progress instantly. **The app uses machine learning to identify recurring subscriptions and helps you negotiate better rates or cancel unused services.** All data is encrypted with bank-level security protocols.",
+    "size": 22.0,
+    "reviews": 45000,
+    "ratingAvg": 4.5,
+    "downloads": 650,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 25000 }
+    ]
+  }
+]

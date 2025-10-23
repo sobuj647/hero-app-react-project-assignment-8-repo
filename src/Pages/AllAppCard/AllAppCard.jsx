@@ -1,11 +1,10 @@
 import React from "react";
-import { Link, Links } from "react-router";
-import CardImg from '../../assets/demo-app2.webp';
+import { Link } from "react-router";
 import { MdOutlineFileDownload } from "react-icons/md";
 import { IoStar } from "react-icons/io5";
 
-const AppCard=({homeApp})=>{
-    const {image, title, downloads, ratingAvg}= homeApp;
+const AllAppCard=({appCardData})=>{
+    const {image, title, downloads, ratingAvg}=appCardData;
     return(
         <div>
             <Link to='/installation'>
@@ -31,4 +30,4 @@ const AppCard=({homeApp})=>{
         </div>
     )
 }
-export default AppCard;
+export default AllAppCard;

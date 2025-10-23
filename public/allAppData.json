@@ -1,0 +1,470 @@
+[
+  {
+    "image": "https://i.ibb.co.com/YBtJ7N0Z/1.webp",
+    "title": "Social Connect",
+    "companyName": "Global Apps Inc.",
+    "id": 101,
+    "description": "Stay connected with friends and family worldwide. Share photos, updates, and more. **Social Connect is the premier platform for personal networking, offering secure, end-to-end encrypted messaging and a customizable news feed.** Key features include **live video broadcasting for up to 50 participants**, a 'Moments' story feature that archives after 24 hours, and an integrated **peer-to-peer payment system** for easy transactions among contacts. Our **AI-powered content filter** minimizes spam and irrelevant posts, focusing on meaningful connections. The app also features a **'Local Meetup' planner** that suggests nearby events and gatherings based on your interests and network activities. **Version 4.5.1 introduced a new 'Zen Mode' for controlling notification frequency and screen time, promoting digital well-being.**",
+    "size": 125.5,
+    "reviews": 152345,
+    "ratingAvg": 4.2,
+    "downloads": 550,
+    "ratings": [
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 25345 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "5 star", "count": 55000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zp8WFGSd/2.png",
+    "title": "Pro Photo Editor",
+    "companyName": "Creative Suite Labs",
+    "id": 102,
+    "description": "Professional-grade photo editing tools for mobile. Filters, layers, and advanced adjustments. **Unlock your creative potential with the most comprehensive suite of mobile editing tools, rivaling desktop software.** The app supports **non-destructive RAW image editing**, offering precision color grading, advanced masking tools, and over 100 unique artistic filters. Features include **unlimited layer support with blend modes**, a **heal and clone brush for retouching**, and **3D LUT import/export** for cinematic color profiles. **Recent update 2.1 introduces AI-powered object selection and background replacement, significantly streamlining complex edits.** Export options include high-resolution formats like TIFF and PNG, maintaining image integrity.",
+    "size": 78.2,
+    "reviews": 98765,
+    "ratingAvg": 4.6,
+    "downloads": 125,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2265 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 53000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/SwSdnGDb/3.jpg",
+    "title": "Quick Task Manager",
+    "companyName": "Efficiency Solutions",
+    "id": 103,
+    "description": "The simplest way to manage your daily to-do lists and projects. Stay organized and productive. **A minimalist yet powerful task management solution designed for speed and clarity.** Users can create tasks using **natural language input** (e.g., 'Meeting tomorrow at 9 AM'), which automatically sets the due date and time. Features include **Kanban board views for project tracking**, integration with popular calendar apps, and **location-based reminders** that trigger when you arrive or leave a specific place. The **Focus Timer** built into the app helps you apply the Pomodoro technique to your tasks. **Version 3.0 added collaborative list sharing with real-time syncing for team projects and family chores.**",
+    "size": 15.1,
+    "reviews": 54321,
+    "ratingAvg": 4.8,
+    "downloads": 890,
+    "ratings": [
+      { "name": "1 star", "count": 321 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 22000 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTkP2qbG/4.jpg",
+    "title": "Galaxy Racer 3D",
+    "companyName": "Pixel Play Games",
+    "id": 104,
+    "description": "High-speed intergalactic racing game with stunning graphics and challenging tracks. **Experience the adrenaline of zero-gravity racing across eight unique planetary environments.** Choose from **20 customizable futuristic hovercrafts** with upgradeable engines, shields, and weapons. The game offers three modes: **Career Mode with a complex storyline**, **Arcade Mode for quick races**, and **Multiplayer PvP** with global leaderboards. **Dynamic weather systems and track hazards** require strategic use of boosters and brakes. **The latest expansion, 'Nebula Drift,' introduced anti-gravity motorcycle races and a new co-op challenge mode.**",
+    "size": 450.9,
+    "reviews": 230000,
+    "ratingAvg": 3.9,
+    "downloads": 300,
+    "ratings": [
+      { "name": "1 star", "count": 35000 },
+      { "name": "2 star", "count": 45000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DgYd4dR7/5.webp",
+    "title": "Active Life Tracker",
+    "companyName": "HealthTech Systems",
+    "id": 105,
+    "description": "Monitor your steps, sleep, and workouts. Set goals and track your fitness progress. **Your all-in-one health and wellness companion. Seamlessly syncs with all major wearable devices and smart scales.** Track **20+ different workout types** with real-time metrics, including heart rate zone analysis and GPS mapping for runs. The **Sleep Coach** analyzes sleep cycles (REM, deep, light) and provides personalized recommendations for better rest. Features **daily 'Activity Score' based on effort, recovery, and consistency**, motivating streaks, and a **nutritional log with barcode scanning** for easy calorie tracking. **New in Pro version 5.0 is an integrated virtual personal trainer with video demonstrations.**",
+    "size": 55.7,
+    "reviews": 190000,
+    "ratingAvg": 4.4,
+    "downloads": 220,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 55000 },
+      { "name": "5 star", "count": 105000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dsx5CCKD/6.webp",
+    "title": "Weather Now Live",
+    "companyName": "Atmosphere Data Co.",
+    "id": 106,
+    "description": "Accurate, real-time weather forecasts and detailed hourly predictions for your location. **Provides hyper-local, minute-by-minute precipitation forecasts and advanced radar mapping.** Data is sourced from a global network of over 100,000 weather stations and satellite imagery. Features include **15-day extended forecasts**, air quality index (AQI) reports, and **severe weather alerts** customizable by intensity. The **'Travel Planner' function** allows you to check weather conditions for multiple cities simultaneously. **Unique to this app is the 'Atmospheric Pressure' graph, beneficial for users with weather-sensitive conditions.**",
+    "size": 32.4,
+    "reviews": 78000,
+    "ratingAvg": 4.1,
+    "downloads": 150,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 26000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/hRJtqJsw/7.webp",
+    "title": "Lingua Master",
+    "companyName": "EduGlobal Soft",
+    "id": 107,
+    "description": "Learn a new language with fun, interactive lessons and native speaker audio. **Master fluency in 30+ languages using our proprietary spaced repetition system (SRS) for optimal memory retention.** Lessons are broken down into **short, gamified sessions** focusing on conversation, grammar, and vocabulary. Features **AI-powered pronunciation feedback** using voice analysis, cultural context notes, and a **live tutor marketplace** for one-on-one practice. **The 'Immersion Mode' allows you to translate real-world objects using your phone's camera to instantly learn new words.** Progress tracking visualizes your mastery level across different skill sets.",
+    "size": 95.8,
+    "reviews": 110000,
+    "ratingAvg": 4.7,
+    "downloads": 180,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/yc3xGJhW/8.webp",
+    "title": "Budget Pal",
+    "companyName": "Finance Focus Ltd.",
+    "id": 108,
+    "description": "Track your expenses, set budgets, and achieve financial goals with ease. **A smart personal finance manager that connects securely to all your bank accounts for automatic transaction categorization.** Features **'Zero-Based Budgeting' templates**, real-time alerts for overspending, and **debt payoff projection tools** to visualize your freedom date. Create **custom savings goals** (e.g., house down payment, vacation) and track progress instantly. **The app uses machine learning to identify recurring subscriptions and helps you negotiate better rates or cancel unused services.** All data is encrypted with bank-level security protocols.",
+    "size": 22.0,
+    "reviews": 45000,
+    "ratingAvg": 4.5,
+    "downloads": 650,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 25000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/C31HQhYW/9.jpg",
+    "title": "TuneFlow Streaming",
+    "companyName": "AudioVerse Ent.",
+    "id": 109,
+    "description": "Stream millions of songs, create playlists, and enjoy ad-free music. **Access a library of over 100 million tracks, high-fidelity audio options, and exclusive artist content.** Features **AI-generated personalized playlists** based on listening habits, **offline listening with unlimited downloads**, and seamless integration with smart speakers. **TuneFlow is the only major service to offer 'Cross-Genre Flow,' a feature that fluidly blends tracks from different musical styles.** Includes a **social feature for collaboratively building playlists with friends** and a built-in equalizer for fine-tuning sound.",
+    "size": 88.4,
+    "reviews": 320000,
+    "ratingAvg": 4.3,
+    "downloads": 750,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 35000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 140000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/yc8VVYXX/10.jpg",
+    "title": "Chef's Delight Recipes",
+    "companyName": "Culinary Creations",
+    "id": 110,
+    "description": "Thousands of recipes from around the world. Step-by-step cooking guides. **Discover over 50,000 verified recipes with high-definition video tutorials and customizable serving sizes.** Filter recipes by **dietary restrictions (vegan, keto, gluten-free)**, cook time, and ingredient availability. The app includes a **'Smart Pantry' feature** where you log your ingredients and it suggests recipes you can make *right now*. Features **voice-activated, hands-free cooking mode** that reads the steps aloud. **New in the latest version: 'Meal Prep Builder' for planning a week's worth of meals and automatically generating a grocery list.**",
+    "size": 60.5,
+    "reviews": 65000,
+    "ratingAvg": 4.7,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0RhrDGrw/11.jpg",
+    "title": "Global News Feed",
+    "companyName": "Informing Minds Inc.",
+    "id": 111,
+    "description": "Breaking news, personalized articles, and deep-dive analysis from top sources. **Provides unbiased, aggregated news coverage from over 5,000 global and local publications with an emphasis on factual reporting.** Customize your feed by topic, region, and political perspective. Features **'Perspective View' which shows how the same story is covered by different news outlets**, and a **built-in fact-checker** that highlights potential misinformation. The **'Summary Mode' uses AI to condense long articles** into key bullet points for quick consumption. Users can subscribe to **premium newsletters** written by expert analysts.",
+    "size": 48.0,
+    "reviews": 90000,
+    "ratingAvg": 4.0,
+    "downloads": 180,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 25000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/mV8Nz9ZF/12.jpg",
+    "title": "Zen Mind Meditation",
+    "companyName": "Inner Peace Digital",
+    "id": 112,
+    "description": "Guided meditations, sleep stories, and calming soundscapes for relaxation. **The world's largest library of guided content for anxiety, focus, sleep, and personal growth, led by certified mindfulness experts.** Offers **1-minute emergency meditations**, courses for beginners, and advanced silent retreats. The **'Sleep Stories' feature** includes soothing narratives with customizable background ambient sounds like rain or forest. **Integrated with Apple Health and Google Fit to track the stress-reducing benefits of your sessions.** Features an optional **'Mood Check-in' journal** to track emotional patterns over time.",
+    "size": 150.3,
+    "reviews": 70000,
+    "ratingAvg": 4.9,
+    "downloads": 140,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 53000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/WWWtLVqM/13.jpg",
+    "title": "Classic Sudoku Pro",
+    "companyName": "Mind Games Studios",
+    "id": 113,
+    "description": "Thousands of Sudoku puzzles, from beginner to expert level. Daily challenges included. **The definitive Sudoku experience with five difficulty levels and a seamless, intuitive interface.** Features include an **intelligent hint system** that explains the logic behind the solution step without simply giving the answer, **pencil mark automation**, and **error highlighting** that can be toggled on or off. The **'Time Challenge' mode** offers competitive play with global leaderboards. **New 'X-Wing' and 'Swordfish' tutorials are available for advanced solvers.** Earn badges for completing daily puzzles and streaks.",
+    "size": 18.9,
+    "reviews": 35000,
+    "ratingAvg": 4.5,
+    "downloads": 700,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pvRZg8v3/14.png",
+    "title": "DocScan PDF Creator",
+    "companyName": "Office Tools Co.",
+    "id": 114,
+    "description": "Scan documents, convert to PDF, and share easily. High-quality image processing. **Transform your phone's camera into a portable scanner with industry-leading optical character recognition (OCR) technology.** The app automatically **detects page edges, corrects perspective distortion, and enhances image quality** for crisp, clear documents. Documents can be saved as multi-page PDFs or JPEG files. Features **digital signature and annotation tools**, secure cloud backup options, and **password protection for sensitive PDFs.** **Version 6.0 added the ability to export scans directly into editable Word or Excel files via OCR.**",
+    "size": 38.6,
+    "reviews": 50000,
+    "ratingAvg": 4.2,
+    "downloads": 950,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/S28L7p8/15.jpg",
+    "title": "Smart Home Hub",
+    "companyName": "Connect Everything Inc.",
+    "id": 115,
+    "description": "Control all your smart home devices from one intuitive app. Security and automation. **The universal control center for over 5,000 smart home products across lighting, climate, security, and entertainment.** Features **'Scenes' to trigger multiple actions with a single tap** (e.g., 'Goodnight' scene locks doors, turns off lights, and adjusts thermostat). Offers **real-time security camera viewing** and two-way audio. **Automations can be set based on time of day, sunrise/sunset, or motion detection.** Includes **voice command integration** with major AI assistants. **The recent 2.5 update improved latency and added geofencing capabilities for auto-arming security when you leave home.**",
+    "size": 68.1,
+    "reviews": 25000,
+    "ratingAvg": 4.1,
+    "downloads": 300,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 3500 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/R4HpBGkG/16.webp",
+    "title": "Vector Drawpad",
+    "companyName": "Digital Canvas Corp.",
+    "id": 116,
+    "description": "Create professional vector graphics and illustrations on your mobile device. **A powerful vector graphics editor designed for both professional designers and hobbyists on the go.** Features **infinite canvas size**, support for **CMYK and RGB color spaces**, and a comprehensive set of vector tools including the Pen Tool, Bézier curves, and shape builders. Supports importing and exporting common formats like **SVG, AI, and PDF** while preserving layer data. **Pressure-sensitive stylus support** allows for precise line work. **The latest update introduced dynamic text manipulation along a path and a royalty-free image library integration.**",
+    "size": 112.7,
+    "reviews": 18000,
+    "ratingAvg": 4.6,
+    "downloads": 250,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/WrfYNTc/17.webp",
+    "title": "Secure Bank Mobile",
+    "companyName": "Secure Financial Group",
+    "id": 117,
+    "description": "Manage your accounts, transfer funds, and pay bills securely from anywhere. **State-of-the-art mobile banking with biometric login, end-to-end encryption, and multi-factor authentication for maximum security.** Features **mobile check deposit using your camera**, instant peer-to-peer transfers, and customizable spending alerts. View **interactive financial summaries** and forecast future balances based on recurring transactions. **The 'Card Control' feature allows you to freeze, unfreeze, and replace debit/credit cards instantly from the app.** Integrated **live chat support** is available 24/7 for urgent issues.",
+    "size": 52.3,
+    "reviews": 85000,
+    "ratingAvg": 4.0,
+    "downloads": 110,
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TM3Nk3xK/18.png",
+    "title": "World Traveler Guide",
+    "companyName": "Vagabond Digital",
+    "id": 118,
+    "description": "Offline maps, city guides, and travel tips for thousands of destinations. **Your indispensable companion for global exploration, featuring high-detail, fully downloadable offline maps with points of interest.** Access curated city guides with **insider recommendations on food, attractions, and local transport**. Features **real-time currency converter**, an **interactive phrasebook** with audio pronunciation for 50 languages, and a **trip planning tool** that optimizes your daily itinerary. **Users can upload their travel photos to automatically create a shareable trip timeline with location tags.**",
+    "size": 99.0,
+    "reviews": 40000,
+    "ratingAvg": 4.4,
+    "downloads": 550,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/99BxXD4b/19.png",
+    "title": "ABC Fun Learning",
+    "companyName": "Kids' Edu-Play",
+    "id": 119,
+    "description": "Educational games and activities for young children to learn letters, numbers, and shapes. **A safe, ad-free environment tailored for children aged 2-6, focusing on early literacy and numeracy skills.** The app includes **100+ interactive, animated games** developed with childhood education specialists. Features **customizable learning paths** that adapt to the child's pace, **parental progress dashboards** with usage limits, and **phonics-based reading activities**. **All content is downloadable for offline play, making it perfect for travel.** Focuses on positive reinforcement and is compliant with COPPA regulations.",
+    "size": 75.6,
+    "reviews": 30000,
+    "ratingAvg": 4.8,
+    "downloads": 800,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/vCGMZSM4/20.webp",
+    "title": "Grocery Getter List",
+    "companyName": "Household Helpers",
+    "id": 120,
+    "description": "Shared shopping lists, recipe integration, and pantry management. **The smartest way to manage all household purchasing, reducing waste and saving time.** Create **multiple, shareable shopping lists** with real-time updates and push notifications. Features **automatic item categorization by aisle** based on your local store's layout. **Integrate recipes to instantly add ingredients to your list.** The **'Pantry Tracker'** monitors expiration dates and suggests meal ideas using ingredients that need to be consumed soon. **Version 1.5 introduced integration with popular online grocery delivery services.**",
+    "size": 12.5,
+    "reviews": 28000,
+    "ratingAvg": 4.7,
+    "downloads": 400,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 16000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/svXQFHZC/21.png",
+    "title": "CinePrime Video",
+    "companyName": "Streaming Giant Ltd.",
+    "id": 121,
+    "description": "Watch the latest movies and TV shows on demand. Exclusive original content. **Stream thousands of titles in up to 4K HDR quality with Dolby Atmos audio support.** Offers **5 simultaneous streams** and unlimited downloads for offline viewing. Features a **personalized 'Watchlist' and AI-driven recommendations** that predict your next favorite show. **Exclusive to CinePrime is the 'Director's Commentary Track' available on over 500 films.** Includes **parental controls** for managing content access and an integrated film review score system from major critics.",
+    "size": 115.0,
+    "reviews": 150000,
+    "ratingAvg": 4.2,
+    "downloads": 400,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/k6g8V7yG/22.jpg",
+    "title": "Cryptic Escape Room",
+    "companyName": "Puzzle Masters Inc.",
+    "id": 122,
+    "description": "A challenging escape room game with intricate puzzles and a mysterious plot. **Immerse yourself in a narrative-driven puzzle adventure with 10 intricately designed rooms, each boasting a unique theme and challenging ciphers.** The game features **high-fidelity 3D graphics and an original orchestral soundtrack** to enhance the atmosphere. Hints are available but penalized on the leaderboard. **Successfully solving a room unlocks a piece of the overarching conspiracy storyline.** Includes an **augmented reality (AR) mode** that projects the puzzle onto your real-world environment. **The latest chapter, 'The Chronos Cipher,' introduced time-manipulation puzzles.**",
+    "size": 350.5,
+    "reviews": 55000,
+    "ratingAvg": 4.5,
+    "downloads": 750,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 17000 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/My8qShzZ/23.webp",
+    "title": "My Daily Journal",
+    "companyName": "Memory Keepers Soft",
+    "id": 123,
+    "description": "Private and secure digital journal with photo and audio entry support. **A beautiful, private space for reflection and mental well-being, protected by biometric security (Face ID/Fingerprint).** Features **daily prompts for gratitude and reflection**, mood tracking with interactive charts, and the ability to **tag entries by emotion or topic** for easy recall. Supports **rich media entries including photos, video clips, and audio notes**. **'Time Capsule' feature** allows you to lock entries until a future date. **All data is locally encrypted on your device and can optionally be backed up to your personal cloud storage.**",
+    "size": 44.8,
+    "reviews": 20000,
+    "ratingAvg": 4.9,
+    "downloads": 300,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XkVpCSKQ/24.png",
+    "title": "Tutor Connect",
+    "companyName": "Academic Ascent",
+    "id": 124,
+    "description": "Instant access to expert tutors across all academic subjects. Homework help and study guides. **Connect with verified, university-level tutors for 24/7 on-demand homework help and live video sessions across K-12 and collegiate subjects.** Features **virtual whiteboard sharing**, file collaboration for reviewing essays and projects, and **AI-powered practice quizzes** that adapt to your weaknesses. **Subscription includes unlimited access to a library of video lectures and thousands of past exam papers.** **The 'Parent Dashboard' allows guardians to monitor session time and topic mastery for younger students.**",
+    "size": 60.1,
+    "reviews": 32000,
+    "ratingAvg": 4.3,
+    "downloads": 450,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/6RD61tGt/25.png",
+    "title": "Data Vault Cloud",
+    "companyName": "Secure Storage Solutions",
+    "id": 125,
+    "description": "Securely store and share your files, photos, and videos in the cloud. **Offering 1TB of free, highly-encrypted cloud storage with military-grade AES-256 encryption for maximum data protection.** Features **automatic camera roll backup**, version history for all files, and a **zero-knowledge privacy policy** ensuring only you can access your data. Easily create **password-protected share links** with expiration dates for collaboration. **The app includes a built-in document previewer for over 50 file types, eliminating the need to download large files.** Storage can be expanded with affordable plans.",
+    "size": 35.5,
+    "reviews": 105000,
+    "ratingAvg": 3.8,
+    "downloads": 250,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whdyK7gp/26.webp",
+    "title": "Emberfall Saga RPG",
+    "companyName": "Mythic Realms Games",
+    "id": 126,
+    "description": "An open-world fantasy role-playing game with deep customization and an epic storyline. **Explore a massive seamless world, 'Aethelgard,' rendered in console-quality graphics, featuring a non-linear narrative with over 100 hours of main quest content.** Choose from **6 unique character classes** with deep skill trees and customizable gear. Engage in a **real-time combat system with strategic pausing** for tactical decisions. Features **co-op multiplayer dungeon crawling** and a dynamic crafting system. **The game world features a day/night cycle and changing seasons that affect gameplay and NPC behavior.** Regular free content expansions are released.",
+    "size": 1200.0,
+    "reviews": 180000,
+    "ratingAvg": 4.6,
+    "downloads": 150,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 100000 }
+    ]
+  }
+]
