@@ -4,10 +4,10 @@ import { MdOutlineFileDownload } from "react-icons/md";
 import { IoStar } from "react-icons/io5";
 
 const AllAppCard=({appCardData})=>{
-    const {image, title, downloads, ratingAvg}=appCardData;
+    const {id, image, title, downloads, ratingAvg}=appCardData;
     return(
         <div>
-            <Link to='/installation'>
+            <Link to={`/cardsDetails/${id}`}>
                 <div className="bg-[#f3f3f3] border-2 border-red-500 p-4 rounded-2xl">
                     <div>
                         <img className="mx-auto w-full rounded-2xl" src={image} alt="" />

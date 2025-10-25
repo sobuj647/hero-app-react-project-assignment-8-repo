@@ -4,7 +4,7 @@ import { useLoaderData } from "react-router";
 
 const Apps=()=>{
     const allAppCardsData=useLoaderData();
-    console.log('allAppCardsData:',allAppCardsData);
+    // console.log('allAppCardsData:',allAppCardsData);
     return(
         <div>
             <div className="text-center p-20">

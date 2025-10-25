@@ -5,7 +5,7 @@ import AppsCards from "../AppsCards/AppsCards";
 
 const Home=()=>{
     const homeApps = useLoaderData();
-    console.log(homeApps);
+    // console.log(homeApps);
     return(
         <div>
             <Banner></Banner>
